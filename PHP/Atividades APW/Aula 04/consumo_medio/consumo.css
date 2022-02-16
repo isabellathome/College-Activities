@@ -1,0 +1,28 @@
+body {
+    background-color: #e6e6ff;
+    margin: 180px 100px 10px;
+}
+
+fieldset { 
+    width: 450px;
+    text-align: center;
+    font-size: 23px;
+}
+
+legend {
+    font-weight: bold;
+    font-size: 28px; 
+    margin-bottom: 4px; 
+}
+
+input {
+    margin-top: 5px;
+}
+
+button {
+    width: 120px;
+    height: 35px;
+    background-color: #cc66ff;
+    border-radius: 5px;
+    font-size: 15px;
+}

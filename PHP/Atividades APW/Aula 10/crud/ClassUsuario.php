@@ -1,0 +1,5 @@
+<!-- ClassUsuario.php -->
+<?php
+
+
+?>
